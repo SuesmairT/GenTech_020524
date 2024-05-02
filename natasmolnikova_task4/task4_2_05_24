@@ -1,0 +1,2 @@
+select distinct users.country
+from users
